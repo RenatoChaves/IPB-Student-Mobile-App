@@ -4,14 +4,16 @@ A Yii2 Backend and React Native Frontend project built for the final project sub
 
 
 
-Part 1 - Login <video src='https://user-images.githubusercontent.com/45267889/178268779-a7d87972-956a-4091-a6c1-f1b006766ebe.mp4'></video>
+<video src='https://user-images.githubusercontent.com/45267889/178276412-0323aa24-c9bd-4a24-9c30-d5eaa9d71c70.mp4'></video>
 
-https://user-images.githubusercontent.com/45267889/178268919-0ceddf23-bf17-4089-9009-2f7b27bcfc58.mp4
+<video src='https://user-images.githubusercontent.com/45267889/178276741-5619a9c8-7f33-4632-86d0-79a941711f29.mp4'></video>
 
-https://user-images.githubusercontent.com/45267889/178269492-241bffbd-d264-4ef8-9cde-7f35b6ec551b.mp4
+<video src='https://user-images.githubusercontent.com/45267889/178276797-bbffc851-3350-4405-9364-db8d203592d0.mp4'></video>
 
-https://user-images.githubusercontent.com/45267889/178269533-0ba6ffee-1398-4908-8cfc-246d6ba69cca.mp4
+<video src='https://user-images.githubusercontent.com/45267889/178276861-80cb8ecc-f9bf-4d16-9e30-9ee8634ae936.mp4'></video>
 
-https://user-images.githubusercontent.com/45267889/178269546-987389cd-b074-47c8-8746-d0e6d16c7c37.mp4
+<video src='https://user-images.githubusercontent.com/45267889/178276897-66edb8e4-ff01-4a4b-a8f3-9394111df63f.mp4'></video>
 
-https://user-images.githubusercontent.com/45267889/178269576-b0083dd8-e6a6-4300-8c81-054d2dcdc5bd.mp4
+<video src='https://user-images.githubusercontent.com/45267889/178276967-b76820c0-3c69-437c-a533-820569010e99.mp4'></video>
+
+
