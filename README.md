@@ -1,12 +1,6 @@
 # IPB-Student-Mobile-App
 
-A Yii2 Backend and React Native Frontend project built for the final project subject of the Informatics Engineering Bachelor to integrate IPB's platforms using both Sakai web Services and Web Scrapping in a single mobile application with an aditional calendar and academic schedule.
-
-
-
-
-
-
+A Yii2 Backend and React Native Frontend project built for the final project subject of the Informatics Engineering Bachelor to integrate IPB's platforms using both Sakai web Services and Web Scrapping in a single mobile application with an aditional calendar and academic schedule.\n\n\n
 
 
 <video src='https://user-images.githubusercontent.com/45267889/178276412-0323aa24-c9bd-4a24-9c30-d5eaa9d71c70.mp4'></video>
